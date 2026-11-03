@@ -305,7 +305,7 @@ def printers(rnd: random.Random, stores: list[dict], P: dict) -> list[list]:
         if s["status"] == "" or (s["closing_date"] and s["closing_date"] <= TODAY):
             continue
         sid, code = s["id"], s["id"].replace("-", "")
-        base = f"10.{20 + REGIONS.index(next(r for r in REGIONS if r[0] == s["region"]))}.{n % 250 + 1}"
+        base = f"10.{20 + REGIONS.index(next(r for r in REGIONS if r[0] == s['region']))}.{n % 250 + 1}"
         refurb = s["status"] == "refurbishment"
 
         def last(lo=3, hi=40):
