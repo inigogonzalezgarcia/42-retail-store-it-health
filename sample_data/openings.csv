@@ -1,0 +1,28 @@
+store_id,event,date,item,owner,due,status,notes
+NW-121,opening,2026-11-13,Line ordered,Network team,2026-09-25,Done,Telco order TEL-ORD-118402
+NW-121,opening,2026-11-13,Line installed,Telco and host IT,2026-10-30,Blocked,The carrier cannot reach the corner until Galerías Adatum patches its floor comms room to it; joint visit with the host's technicians on 10 Nov
+NW-121,opening,2026-11-13,4G/LTE backup router shipped,Store IT support,2026-11-06,Done,
+NW-121,opening,2026-11-13,Store PC and back-office PC staged,Store IT support,2026-11-06,Done,
+NW-121,opening,2026-11-13,"Printers (receipt, label) installed",Store IT support,2026-11-10,In progress,
+NW-121,opening,2026-11-13,Card terminal activated,Payment provider,2026-11-11,In progress,
+NW-121,opening,2026-11-13,Staff accounts created,Identity and access,2026-11-06,Not started,Four staff start on 10 Nov
+NW-121,opening,2026-11-13,"Test day (sale, receipt, card, VPN)",Field technician,2026-11-12,Not started,
+NW-122,opening,2026-11-26,Line ordered,Network team,2026-10-01,Done,
+NW-122,opening,2026-11-26,Line installed,Telco,2026-11-12,Done,Installed 29 Oct
+NW-122,opening,2026-11-26,4G/LTE backup router shipped,Store IT support,2026-11-18,Done,
+NW-122,opening,2026-11-26,Store PC and back-office PC staged,Store IT support,2026-11-18,Not started,
+NW-122,opening,2026-11-26,"Printers (receipt, label, A4) installed",Store IT support,2026-11-20,Not started,
+NW-122,opening,2026-11-26,Card terminals activated,Payment provider,2026-11-20,Not started,
+NW-122,opening,2026-11-26,Staff accounts created,Identity and access,2026-11-19,Not started,
+NW-122,opening,2026-11-26,"Test day (sale, receipt, card, VPN)",Field technician,2026-11-25,Not started,
+NW-090,closing,2026-11-21,Line cancellation requested,Network team,2026-10-31,Not started,Twenty days' notice in the contract
+NW-090,closing,2026-11-21,Devices recovered,Field technician,2026-11-21,Not started,
+NW-090,closing,2026-11-21,Accounts disabled,Identity and access,2026-11-21,Not started,
+NW-071,closing,2026-10-10,Line cancelled,Network team,2026-10-10,Done,
+NW-071,closing,2026-10-10,Devices recovered,Field technician,2026-10-10,Not started,Courier pick-up not booked
+NW-071,closing,2026-10-10,Accounts disabled,Identity and access,2026-10-10,Done,
+NW-032,closing,2026-10-24,Line cancelled,Network team,2026-10-24,Done,
+NW-032,closing,2026-10-24,Devices recovered,Field technician,2026-10-24,In progress,Waiting for the landlord's keys
+NW-032,closing,2026-10-24,Accounts disabled,Identity and access,2026-10-24,In progress,
+NW-003,refurbishment,2026-10-26,"Reopening test (line, printers, card terminals)",Field technician,2026-11-14,Not started,
+NW-050,refurbishment,2026-10-26,"Reopening test (line, printers, card terminals)",Field technician,2026-11-20,Not started,

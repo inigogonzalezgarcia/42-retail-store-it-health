@@ -1,0 +1,22 @@
+employee_id,name,store_id,role,start_date,end_date
+30410,Lucía Castro,NW-025,Optician,2026-11-04,
+30411,Beatriz Silva,NW-025,Sales advisor,2026-11-04,
+30412,Paula Ruiz,NW-008,Optician,2026-11-04,
+30413,João Sánchez,NW-008,Store manager,2026-11-04,
+30414,Lucía Torres,NW-119,Sales advisor,2026-11-04,
+30415,Laura Ortiz,NW-121,Store manager,2026-11-10,
+30416,Raúl Ruiz,NW-121,Optician,2026-11-10,
+30417,Sara Ortiz,NW-121,Optician,2026-11-10,
+30418,Hugo Almeida,NW-121,Sales advisor,2026-11-10,
+30419,Sofía Martín,NW-084,Sales advisor,2026-11-16,
+30420,Mariana Gil,NW-056,Sales advisor,2026-11-16,
+30421,Inês Castro,NW-023,Sales advisor,2026-10-12,
+30422,Marta Ruiz,NW-078,Sales advisor,2026-10-07,
+30423,Irene Vidal,NW-082,Sales advisor,2026-10-23,
+30424,Rui Jiménez,NW-031,Sales advisor,2026-10-03,
+30425,Jorge Jiménez,NW-074,Sales advisor,2019-07-04,2026-09-25
+30426,Raúl Jiménez,NW-111,Optician,2022-03-24,2026-10-15
+30427,Tomás Martín,NW-031,Store manager,2022-11-13,2026-10-24
+30428,Mariana López,NW-039,Optician,2021-12-29,2026-10-31
+30429,Paula Vidal,NW-033,Optician,2021-12-12,2026-11-02
+30430,Beatriz López,NW-066,Store manager,2021-02-20,2026-10-20

@@ -1,0 +1,134 @@
+userPrincipalName,displayName,employeeId,accountEnabled,officeLocation,createdDateTime
+beatriz.silva@northwindoptics.example,Beatriz Silva,30411,true,NW-025,2026-10-30 09:00
+paula.ruiz@northwindoptics.example,Paula Ruiz,30412,true,NW-008,2026-10-30 09:00
+lucia.torres@northwindoptics.example,Lucía Torres,30414,true,NW-119,2026-10-30 09:00
+inos.castro@northwindoptics.example,Inês Castro,30421,true,NW-023,2026-10-07 09:00
+marta.ruiz@northwindoptics.example,Marta Ruiz,30422,true,NW-078,2026-10-02 09:00
+irene.vidal@northwindoptics.example,Irene Vidal,30423,true,NW-082,2026-10-18 09:00
+rui.jimenez@northwindoptics.example,Rui Jiménez,30424,true,NW-031,2026-09-28 09:00
+jorge.jimenez@northwindoptics.example,Jorge Jiménez,30425,true,NW-074,2019-06-29 09:00
+raul.jimenez@northwindoptics.example,Raúl Jiménez,30426,true,NW-111,2022-03-19 09:00
+tomas.martin@northwindoptics.example,Tomás Martín,30427,true,NW-031,2022-11-08 09:00
+mariana.lopez@northwindoptics.example,Mariana López,30428,true,NW-039,2021-12-24 09:00
+paula.vidal@northwindoptics.example,Paula Vidal,30429,true,NW-033,2021-12-07 09:00
+beatriz.lopez@northwindoptics.example,Beatriz López,30430,false,NW-066,2021-02-15 09:00
+store.nw001@northwindoptics.example,Store NW-001 Madrid C.C. Norte,,true,NW-001,2018-05-02 09:00
+store.nw002@northwindoptics.example,Store NW-002 Alcalá de Henares Calle Mayor,,true,NW-002,2014-06-18 09:00
+store.nw003@northwindoptics.example,Store NW-003 Getafe C.C. Plaza,,true,NW-003,2014-02-11 09:00
+store.nw004@northwindoptics.example,Store NW-004 Alcobendas C.C. Norte,,true,NW-004,2012-10-31 09:00
+store.nw005@northwindoptics.example,Store NW-005 Las Rozas Calle Mayor,,true,NW-005,2023-07-01 09:00
+store.nw006@northwindoptics.example,Store NW-006 Pozuelo de Alarcón C.C. Plaza,,true,NW-006,2016-08-15 09:00
+store.nw007@northwindoptics.example,Store NW-007 Leganés C.C. Plaza,,true,NW-007,2021-07-28 09:00
+store.nw008@northwindoptics.example,Store NW-008 Las Rozas Plaza,,true,NW-008,2012-04-23 09:00
+store.nw009@northwindoptics.example,Store NW-009 Alcalá de Henares C.C. Río,,true,NW-009,2019-10-18 09:00
+store.nw010@northwindoptics.example,Store NW-010 Alcalá de Henares Plaza,,true,NW-010,2014-06-16 09:00
+store.nw011@northwindoptics.example,Store NW-011 Madrid Plaza,,true,NW-011,2019-11-17 09:00
+store.nw012@northwindoptics.example,Store NW-012 Leganés C.C. Norte,,true,NW-012,2022-06-20 09:00
+store.nw013@northwindoptics.example,Store NW-013 Alcobendas C.C. Plaza,,true,NW-013,2018-09-27 09:00
+store.nw014@northwindoptics.example,Store NW-014 Las Rozas C.C. Parque,,true,NW-014,2025-02-10 09:00
+store.nw015@northwindoptics.example,Store NW-015 Madrid Centro,,true,NW-015,2017-04-10 09:00
+store.nw016@northwindoptics.example,Store NW-016 Madrid C.C. Sur,,true,NW-016,2014-06-06 09:00
+store.nw017@northwindoptics.example,Store NW-017 Alcobendas Ensanche,,true,NW-017,2020-05-06 09:00
+store.nw018@northwindoptics.example,Store NW-018 Getafe Calle Mayor,,true,NW-018,2018-02-25 09:00
+store.nw019@northwindoptics.example,Store NW-019 Pozuelo de Alarcón C.C. Norte,,true,NW-019,2016-01-01 09:00
+store.nw020@northwindoptics.example,Store NW-020 Alcalá de Henares C.C. Sur,,true,NW-020,2022-07-13 09:00
+store.nw021@northwindoptics.example,Store NW-021 Pozuelo de Alarcón Ensanche,,true,NW-021,2024-08-27 09:00
+store.nw022@northwindoptics.example,Store NW-022 Getafe Centro,,true,NW-022,2017-04-20 09:00
+store.nw023@northwindoptics.example,Store NW-023 Leganés C.C. Parque,,true,NW-023,2021-02-28 09:00
+store.nw024@northwindoptics.example,Store NW-024 Alcalá de Henares Casco Antiguo,,true,NW-024,2019-03-22 09:00
+store.nw025@northwindoptics.example,Store NW-025 Alcobendas Avenida,,true,NW-025,2022-06-15 09:00
+store.nw026@northwindoptics.example,Store NW-026 Alcalá de Henares Ensanche,,true,NW-026,2024-10-02 09:00
+store.nw027@northwindoptics.example,Store NW-027 Barcelona C.C. Plaza,,true,NW-027,2021-10-09 09:00
+store.nw028@northwindoptics.example,Store NW-028 Badalona Galerías Adatum corner,,true,NW-028,2021-02-13 09:00
+store.nw029@northwindoptics.example,Store NW-029 Sabadell Calle Mayor,,true,NW-029,2023-08-05 09:00
+store.nw030@northwindoptics.example,Store NW-030 Girona Centro,,true,NW-030,2014-08-16 09:00
+store.nw031@northwindoptics.example,Store NW-031 Tarragona Calle Mayor,,true,NW-031,2021-08-19 09:00
+store.nw032@northwindoptics.example,Store NW-032 Lleida C.C. Río,,true,NW-032,2020-09-21 09:00
+store.nw033@northwindoptics.example,Store NW-033 Terrassa C.C. Río,,true,NW-033,2024-01-12 09:00
+store.nw034@northwindoptics.example,Store NW-034 Tarragona Centro,,true,NW-034,2014-09-25 09:00
+store.nw035@northwindoptics.example,Store NW-035 Tarragona C.C. Parque,,true,NW-035,2019-10-17 09:00
+store.nw036@northwindoptics.example,Store NW-036 Girona Calle Mayor,,true,NW-036,2022-05-04 09:00
+store.nw037@northwindoptics.example,Store NW-037 Lleida Ensanche,,true,NW-037,2018-01-26 09:00
+store.nw038@northwindoptics.example,Store NW-038 Terrassa Galerías Adatum corner,,true,NW-038,2016-03-03 09:00
+store.nw039@northwindoptics.example,Store NW-039 Barcelona C.C. Parque,,true,NW-039,2023-07-20 09:00
+store.nw040@northwindoptics.example,Store NW-040 Badalona C.C. Parque,,true,NW-040,2015-10-15 09:00
+store.nw041@northwindoptics.example,Store NW-041 Terrassa C.C. Plaza,,true,NW-041,2012-03-05 09:00
+store.nw042@northwindoptics.example,Store NW-042 Girona C.C. Norte,,true,NW-042,2014-09-03 09:00
+store.nw043@northwindoptics.example,Store NW-043 Terrassa Galerías Adatum corner,,true,NW-043,2019-01-23 09:00
+store.nw044@northwindoptics.example,Store NW-044 Badalona Casco Antiguo,,true,NW-044,2013-12-06 09:00
+store.nw045@northwindoptics.example,Store NW-045 Girona Casco Antiguo,,true,NW-045,2014-12-26 09:00
+store.nw046@northwindoptics.example,Store NW-046 Girona Plaza,,true,NW-046,2023-12-31 09:00
+store.nw047@northwindoptics.example,Store NW-047 Girona Galerías Adatum corner,,true,NW-047,2016-11-30 09:00
+store.nw048@northwindoptics.example,Store NW-048 Terrassa Galerías Adatum corner,,true,NW-048,2016-09-03 09:00
+store.nw049@northwindoptics.example,Store NW-049 Valencia C.C. Río,,true,NW-049,2020-07-16 09:00
+store.nw050@northwindoptics.example,Store NW-050 Alicante Casco Antiguo,,true,NW-050,2022-04-16 09:00
+store.nw051@northwindoptics.example,Store NW-051 Castellón Calle Mayor,,true,NW-051,2013-08-07 09:00
+store.nw052@northwindoptics.example,Store NW-052 Elche Casco Antiguo,,true,NW-052,2024-08-02 09:00
+store.nw053@northwindoptics.example,Store NW-053 Murcia Calle Mayor,,true,NW-053,2012-04-28 09:00
+store.nw054@northwindoptics.example,Store NW-054 Gandía Ensanche,,true,NW-054,2013-06-26 09:00
+store.nw055@northwindoptics.example,Store NW-055 Valencia Plaza,,true,NW-055,2013-10-02 09:00
+store.nw056@northwindoptics.example,Store NW-056 Castellón C.C. Río,,true,NW-056,2016-12-20 09:00
+store.nw057@northwindoptics.example,Store NW-057 Gandía C.C. Plaza,,true,NW-057,2025-02-01 09:00
+store.nw058@northwindoptics.example,Store NW-058 Elche Avenida,,true,NW-058,2016-06-07 09:00
+store.nw059@northwindoptics.example,Store NW-059 Gandía Avenida,,true,NW-059,2020-02-10 09:00
+store.nw060@northwindoptics.example,Store NW-060 Elche Ensanche,,true,NW-060,2013-05-18 09:00
+store.nw061@northwindoptics.example,Store NW-061 Gandía C.C. Norte,,true,NW-061,2013-07-10 09:00
+store.nw062@northwindoptics.example,Store NW-062 Castellón Centro,,true,NW-062,2017-09-27 09:00
+store.nw063@northwindoptics.example,Store NW-063 Murcia Avenida,,true,NW-063,2015-04-23 09:00
+store.nw064@northwindoptics.example,Store NW-064 Castellón Avenida,,true,NW-064,2017-10-07 09:00
+store.nw065@northwindoptics.example,Store NW-065 Valencia Galerías Adatum corner,,true,NW-065,2022-02-07 09:00
+store.nw066@northwindoptics.example,Store NW-066 Murcia C.C. Norte,,true,NW-066,2013-04-19 09:00
+store.nw067@northwindoptics.example,Store NW-067 Sevilla C.C. Plaza,,true,NW-067,2012-06-29 09:00
+store.nw068@northwindoptics.example,Store NW-068 Málaga Galerías Adatum corner,,true,NW-068,2017-06-19 09:00
+store.nw069@northwindoptics.example,Store NW-069 Granada Avenida,,true,NW-069,2022-12-17 09:00
+store.nw070@northwindoptics.example,Store NW-070 Córdoba Avenida,,true,NW-070,2013-06-24 09:00
+store.nw071@northwindoptics.example,Store NW-071 Cádiz Centro,,true,NW-071,2020-12-02 09:00
+store.nw072@northwindoptics.example,Store NW-072 Almería Avenida,,true,NW-072,2018-07-24 09:00
+store.nw073@northwindoptics.example,Store NW-073 Jerez Ensanche,,true,NW-073,2024-08-17 09:00
+store.nw074@northwindoptics.example,Store NW-074 Córdoba C.C. Sur,,true,NW-074,2016-06-03 09:00
+store.nw075@northwindoptics.example,Store NW-075 Sevilla Casco Antiguo,,true,NW-075,2024-04-28 09:00
+store.nw076@northwindoptics.example,Store NW-076 Granada Centro,,true,NW-076,2013-04-15 09:00
+store.nw077@northwindoptics.example,Store NW-077 Cádiz C.C. Plaza,,true,NW-077,2015-09-11 09:00
+store.nw078@northwindoptics.example,Store NW-078 Cádiz Calle Mayor,,true,NW-078,2013-09-13 09:00
+store.nw079@northwindoptics.example,Store NW-079 Almería C.C. Sur,,true,NW-079,2021-03-21 09:00
+store.nw080@northwindoptics.example,Store NW-080 Cádiz Casco Antiguo,,true,NW-080,2013-01-20 09:00
+store.nw081@northwindoptics.example,Store NW-081 Córdoba C.C. Plaza,,true,NW-081,2024-11-03 09:00
+store.nw082@northwindoptics.example,Store NW-082 Granada C.C. Sur,,true,NW-082,2019-03-18 09:00
+store.nw083@northwindoptics.example,Store NW-083 Córdoba Calle Mayor,,true,NW-083,2018-11-22 09:00
+store.nw084@northwindoptics.example,Store NW-084 Jerez Centro,,true,NW-084,2012-05-16 09:00
+store.nw085@northwindoptics.example,Store NW-085 Cádiz Plaza,,true,NW-085,2015-02-19 09:00
+store.nw086@northwindoptics.example,Store NW-086 Sevilla Galerías Adatum corner,,true,NW-086,2017-08-23 09:00
+store.nw087@northwindoptics.example,Store NW-087 Bilbao Calle Mayor,,true,NW-087,2021-12-28 09:00
+store.nw088@northwindoptics.example,Store NW-088 San Sebastián C.C. Parque,,true,NW-088,2024-01-11 09:00
+store.nw089@northwindoptics.example,Store NW-089 Santander Casco Antiguo,,true,NW-089,2018-11-17 09:00
+store.nw090@northwindoptics.example,Store NW-090 Oviedo Galerías Adatum corner,,true,NW-090,2014-06-27 09:00
+store.nw091@northwindoptics.example,Store NW-091 Vitoria Galerías Adatum corner,,true,NW-091,2015-03-06 09:00
+store.nw092@northwindoptics.example,Store NW-092 Pamplona Centro,,true,NW-092,2024-07-28 09:00
+store.nw093@northwindoptics.example,Store NW-093 Gijón Plaza,,true,NW-093,2016-11-20 09:00
+store.nw094@northwindoptics.example,Store NW-094 San Sebastián C.C. Plaza,,true,NW-094,2023-02-14 09:00
+store.nw095@northwindoptics.example,Store NW-095 Gijón Centro,,true,NW-095,2014-03-27 09:00
+store.nw096@northwindoptics.example,Store NW-096 Gijón C.C. Parque,,true,NW-096,2013-02-25 09:00
+store.nw097@northwindoptics.example,Store NW-097 Gijón Calle Mayor,,true,NW-097,2018-01-14 09:00
+store.nw098@northwindoptics.example,Store NW-098 Oviedo Casco Antiguo,,true,NW-098,2021-10-03 09:00
+store.nw099@northwindoptics.example,Store NW-099 Bilbao C.C. Norte,,true,NW-099,2015-07-05 09:00
+store.nw100@northwindoptics.example,Store NW-100 Gijón C.C. Plaza,,true,NW-100,2024-07-22 09:00
+store.nw101@northwindoptics.example,Store NW-101 San Sebastián Centro,,true,NW-101,2019-01-29 09:00
+store.nw102@northwindoptics.example,Store NW-102 Gijón Ensanche,,true,NW-102,2017-10-05 09:00
+store.nw103@northwindoptics.example,Store NW-103 Lisboa C.C. Parque,,true,NW-103,2024-09-20 09:00
+store.nw104@northwindoptics.example,Store NW-104 Porto Galerías Adatum corner,,true,NW-104,2021-04-12 09:00
+store.nw105@northwindoptics.example,Store NW-105 Braga Galerías Adatum corner,,true,NW-105,2015-08-19 09:00
+store.nw106@northwindoptics.example,Store NW-106 Coimbra Galerías Adatum corner,,true,NW-106,2017-06-22 09:00
+store.nw107@northwindoptics.example,Store NW-107 Faro Galerías Adatum corner,,true,NW-107,2016-02-19 09:00
+store.nw108@northwindoptics.example,Store NW-108 Aveiro Galerías Adatum corner,,true,NW-108,2012-09-20 09:00
+store.nw109@northwindoptics.example,Store NW-109 Setúbal Praça,,true,NW-109,2021-05-25 09:00
+store.nw110@northwindoptics.example,Store NW-110 Setúbal C.C. Sur,,true,NW-110,2018-02-23 09:00
+store.nw111@northwindoptics.example,Store NW-111 Aveiro Baixa,,true,NW-111,2020-09-28 09:00
+store.nw112@northwindoptics.example,Store NW-112 Setúbal Galerías Adatum corner,,true,NW-112,2022-09-20 09:00
+store.nw113@northwindoptics.example,Store NW-113 Setúbal Avenida,,true,NW-113,2020-01-03 09:00
+store.nw114@northwindoptics.example,Store NW-114 Setúbal Rua Central,,true,NW-114,2017-03-01 09:00
+store.nw115@northwindoptics.example,Store NW-115 Porto Avenida,,true,NW-115,2019-07-12 09:00
+store.nw116@northwindoptics.example,Store NW-116 Lisboa Praça,,true,NW-116,2020-01-15 09:00
+store.nw117@northwindoptics.example,Store NW-117 Coimbra C.C. Plaza,,true,NW-117,2019-08-04 09:00
+store.nw118@northwindoptics.example,Store NW-118 Lisboa Galerías Adatum corner,,true,NW-118,2018-01-08 09:00
+store.nw119@northwindoptics.example,Store NW-119 Braga Baixa,,true,NW-119,2014-08-06 09:00
+store.nw120@northwindoptics.example,Store NW-120 Braga C.C. Parque,,true,NW-120,2021-12-13 09:00
